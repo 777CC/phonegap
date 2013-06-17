@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.Yingfun.STARPUZZLEDELUXE"
         version   = "0.2.0">
-    <name>Example HTML5 Audio Streaming</name>
+    <name>STARPUZZLEDELUXE</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
